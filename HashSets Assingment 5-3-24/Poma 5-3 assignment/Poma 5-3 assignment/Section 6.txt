@@ -1,0 +1,17 @@
+
+
+Section 6
+
+Add Function:
+
+Comparing the add function in with both hashsets and list. 
+The results shows that list are faster in this regard since hashsets need to make a hash for the added data.
+
+Contains Function
+Here the hashsets were much faster since knowing what is in the hashset it its primary function of not allowing duplicates so it knows
+where to find the matching value since of the given Hash
+
+Remove Function.
+This function was also faster since the hashset know where each value is in the memory and can remove it almost instantly.
+
+

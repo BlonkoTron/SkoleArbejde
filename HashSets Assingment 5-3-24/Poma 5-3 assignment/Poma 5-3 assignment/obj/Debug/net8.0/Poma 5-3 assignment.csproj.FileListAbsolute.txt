@@ -1,0 +1,14 @@
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\bin\Debug\net8.0\Poma 5-3 assignment.exe
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\bin\Debug\net8.0\Poma 5-3 assignment.deps.json
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\bin\Debug\net8.0\Poma 5-3 assignment.runtimeconfig.json
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\bin\Debug\net8.0\Poma 5-3 assignment.dll
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\bin\Debug\net8.0\Poma 5-3 assignment.pdb
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.AssemblyInfoInputs.cache
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.AssemblyInfo.cs
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.csproj.CoreCompileInputs.cache
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.dll
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\refint\Poma 5-3 assignment.dll
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.pdb
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\Poma 5-3 assignment.genruntimeconfig.cache
+C:\Users\theap\source\repos\Poma 5-3 assignment\Poma 5-3 assignment\obj\Debug\net8.0\ref\Poma 5-3 assignment.dll
