@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\Assignment19-03\Person.cs" />
     <Compile Include="Assets\Scripts\Assignment19-03\MakingDirectory.cs" />
     <Compile Include="Assets\Scripts\LearningCurve.cs" />
+    <Compile Include="Assets\SavePhoneData\PhoneDataCollecter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
